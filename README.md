@@ -26,8 +26,8 @@ Tech Odyssey 是一個互動式心理測驗平台，通過三個關鍵問題分�
 
 1. **克隆項目**
    ```bash
-   git clone <your-repository-url>
-   cd tech-odyssey
+   git clone https://github.com/ethanlin1126/Capstone_Project_Website.git
+   cd Capstone_Project_Website
    ```
 
 2. **安裝依賴**
