@@ -20,7 +20,6 @@ Tech Odyssey 是一個互動式心理測驗平台，通過三個關鍵問題分�
 
 - Python 3.7+
 - Flask
-- 現代瀏覽器（支持 CSS Grid 和 Flexbox）
 
 ### 安裝步驟
 
